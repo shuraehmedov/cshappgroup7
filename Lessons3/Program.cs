@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Local");
+            int[] arr1 = { 1, 2, };
+
+            Console.WriteLine(arr1[0]);
         }
     }
 }
